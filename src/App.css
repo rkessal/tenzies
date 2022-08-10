@@ -73,3 +73,10 @@ body {
   background-color: #5035FF;
   cursor: pointer;
 }
+
+.scoreboard {
+  width: 100%;
+  max-width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
